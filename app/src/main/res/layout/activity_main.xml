@@ -31,4 +31,10 @@
         android:layout_height="wrap_content"
         android:text="Set Allaram"
         android:id="@+id/btn"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello world"
+        android:gravity="center"/>
 </LinearLayout>
